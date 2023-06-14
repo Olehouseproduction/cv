@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: #f9f9f9;
+  color: #333333;
+  width: 980px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+h1,h2 {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+a:link {
+  color: green;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    background: #f88396; 
+    color: #0d5353;
+}
